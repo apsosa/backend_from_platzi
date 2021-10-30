@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodingCarlos/proyecto-backend-node-platzi.git"
+    "url": "git+https://github.com/apsosa/backend_from_platzi"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CodingCarlos/proyecto-backend-node-platzi/issues"
+    "url": "https://github.com/apsosa/backend_from_platzis"
   },
-  "homepage": "https://github.com/CodingCarlos/proyecto-backend-node-platzi#readme",
+  "homepage": "https://github.com/apsosa/backend_from_platzi/proyecto-backend-node-platzi#readme",
   "dependencies": {
     "bcrypt": "^3.0.7",
     "body-parser": "^1.19.0",
